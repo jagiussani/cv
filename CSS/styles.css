@@ -1,0 +1,51 @@
+/********************************* Tag Selectors ******************************/
+
+    body {
+      background-color:#dfd3c3
+
+    }
+
+    img {
+      border-color: #ecf4f3 #ecf4f3;
+      border-style: groove;
+      border-width: 0.05px;
+      height: 160px;
+      width: 150px;
+      overflow: hidden;
+    }
+
+    hr {
+
+      width: 5%;
+      border-style: dashed;
+      border-color: #ecf4f3;
+      border-width: 5px;
+    }
+
+    h1 {
+      color: #596e79;
+    }
+
+  h3 {
+    color: #133b5c;
+  }
+
+  /********************************* Class Selectors ******************************/
+.circular {
+  border-radius: 100%
+  }
+
+.Education:hover {
+  color: white;
+}
+
+.WorkExperience:hover {
+  color: white;
+}
+
+.Skills:hover {
+  color: white;
+}
+
+
+  /********************************* ID Selectors *********************************/
